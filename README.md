@@ -1,2 +1,2 @@
 # Big-Data-Spark-MLlib
-Recomme
+Recommender and Classifier using Spark Mllib
